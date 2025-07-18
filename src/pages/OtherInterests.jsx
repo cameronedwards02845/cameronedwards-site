@@ -1,4 +1,4 @@
-import { useEffects } from 'react';
+import { useEffect } from 'react';
 
 export default function OtherInterests() {
   useEffect(() => {

@@ -66,7 +66,7 @@ export default function Home() {
     rel="noopener noreferrer"
     // className="nav-button"
   >
-    view my resume.
+     view my resume.
   </a>
 </p>
         <h3>
