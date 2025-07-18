@@ -59,6 +59,14 @@ export default function Home() {
     </a>
   </div>
 </section>
+<a
+  href="/resumenew.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="nav-button"
+>
+  View My Resume
+</a>
 
 
         <h3>
