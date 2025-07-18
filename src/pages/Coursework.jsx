@@ -4,7 +4,7 @@ export default function Coursework() {
         <h1>Coursework</h1>
         <p>This page focuses on relevant computer science and philosophy courses I have completed in college so far.</p>
         <h2>
-            CS
+            <a href="https://engineering.case.edu/computer-and-data-sciences" target="_blank" rel="noopener noreferrer"></a>CS
         </h2>
         <p>
             <ul>
