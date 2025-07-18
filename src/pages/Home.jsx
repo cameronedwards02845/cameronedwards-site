@@ -59,19 +59,16 @@ export default function Home() {
     </a>
   </div>
 </section>
-<h2>Also, you can
+<p>Also, you can
   <a
     href="/resumenew.pdf"
     target="_blank"
     rel="noopener noreferrer"
     className="nav-button"
   >
-    view my resume
+    view my resume.
   </a>
-  here.
-</h2>
-
-
+</p>
         <h3>
             I hope you find this website simple to navigate. It was an enjoyable task to create it.
         </h3>
