@@ -1,4 +1,10 @@
+import { useEffects } from 'react';
+
 export default function OtherInterests() {
+  useEffect(() => {
+    document.title= 'Cameron Edwards - Other Interests';
+  } []);
+  
     return (
       <div>
         <h1>Other Interests</h1>

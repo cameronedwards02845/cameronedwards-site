@@ -1,7 +1,11 @@
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
+import { useEffect } from 'react';
 
 export default function Home() {
+  useEffect(() =>  {
+    document.title = 'Cameron Edwards - Home';
+  }, []);
     const iconLinkStyle = {
         color: '#333',
         textDecoration: 'none',
