@@ -4,7 +4,7 @@ export default function Coursework() {
         <h1>Coursework</h1>
         <p>This page focuses on relevant computer science and philosophy courses I have completed in college so far.</p>
         <h2>
-            <a href="https://engineering.case.edu/computer-and-data-sciences" target="_blank" rel="noopener noreferrer"></a>CS
+            <a href="https://engineering.case.edu/computer-and-data-sciences" target="_blank" rel="noopener noreferrer">CS</a>
         </h2>
         <p>
             <ul>
@@ -29,11 +29,11 @@ export default function Coursework() {
                 CSDS 338: <i>Introduction to Operating Systems and Concurrent Programming</i>
             </ul>
             <ul>
-                I have also taken <i>Calculus for Science and Engineering I, II, and III</i> through the <a href="https://mathstats.case.edu/" target="_blank" rel="noopener noreferrer"></a> CWRU Mathematics Department.
+                I have also taken <i>Calculus for Science and Engineering I, II, and III</i> through the <a href="https://mathstats.case.edu/" target="_blank" rel="noopener noreferrer">CWRU Mathematics Department</a>.
             </ul>
         </p>
         <h2>
-            <a href="https://philosophy.case.edu/" target="_blank" rel="noopener noreferrer"></a>Philosophy
+            <a href="https://philosophy.case.edu/" target="_blank" rel="noopener noreferrer">Philosophy</a>
         </h2>
         <p>
             <ul>
