@@ -64,7 +64,7 @@ export default function Home() {
     href="/resumenew.pdf"
     target="_blank"
     rel="noopener noreferrer"
-    className="nav-button"
+    // className="nav-button"
   >
     view my resume.
   </a>
