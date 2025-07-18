@@ -29,11 +29,11 @@ export default function Coursework() {
                 CSDS 338: <i>Introduction to Operating Systems and Concurrent Programming</i>
             </ul>
             <ul>
-                I have also taken <i>Calculus for Science and Engineering I, II, and III</i> through the CWRU Mathematics Department.
+                I have also taken <i>Calculus for Science and Engineering I, II, and III</i> through the <a href="https://mathstats.case.edu/" target="_blank" rel="noopener noreferrer"></a> CWRU Mathematics Department.
             </ul>
         </p>
         <h2>
-            Philosophy
+            <a href="https://philosophy.case.edu/" target="_blank" rel="noopener noreferrer"></a>Philosophy
         </h2>
         <p>
             <ul>
