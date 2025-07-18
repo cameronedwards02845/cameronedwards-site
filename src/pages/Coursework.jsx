@@ -3,9 +3,9 @@ import { useEffect } from 'react';
 export default function Coursework() {
     useEffect(() => {
         document.title = 'Cameron Edwards - Coursework';
-    } []);
-    
-    return 
+    }, []);
+
+    return (
       <div>
         <h1>Coursework</h1>
         <p>This page focuses on relevant computer science and philosophy courses I have completed in college so far.</p>
