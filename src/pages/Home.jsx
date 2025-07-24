@@ -88,4 +88,8 @@ export default function Home() {
       </section>
     </div>
   );
+  <footer className="site-footer">
+  <p>&copy; {new Date().getFullYear()} Cameron Edwards. All rights reserved.</p>
+</footer>
+
 }

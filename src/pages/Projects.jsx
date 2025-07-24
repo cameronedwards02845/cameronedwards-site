@@ -11,4 +11,8 @@ export default function Projects() {
         <p>Here’s a showcase of the cool stuff I’ve built.</p>
       </div>
     );
+    <footer className="site-footer">
+  <p>&copy; {new Date().getFullYear()} Cameron Edwards. All rights reserved.</p>
+</footer>
+
 }

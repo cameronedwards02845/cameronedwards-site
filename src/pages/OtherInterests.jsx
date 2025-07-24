@@ -19,4 +19,8 @@ export default function OtherInterests() {
         <li>I also like listening to music. Some of my favorite arists are Jack Johnson, Lynyrd Skynyrd, Chicago, Billy Joel, and Watsky.</li>
       </div>
     );
+    <footer className="site-footer">
+  <p>&copy; {new Date().getFullYear()} Cameron Edwards. All rights reserved.</p>
+</footer>
+
   }

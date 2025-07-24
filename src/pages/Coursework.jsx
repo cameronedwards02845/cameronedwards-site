@@ -60,4 +60,8 @@ export default function Coursework() {
         </p>
       </div>
     );
+    <footer className="site-footer">
+  <p>&copy; {new Date().getFullYear()} Cameron Edwards. All rights reserved.</p>
+</footer>
+
   }
