@@ -59,17 +59,38 @@ body {
 }
 
 .headshot {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  display: block;
-  margin: 0 uato 1.5rem auto;
 }
 
 .home-content {
   text-align: center;
+}
+
+.home-hero {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.intro-text {
+  max-width: 600px;
+}
+
+.intro-text h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.intro-text h2 {
+  font-size: 1.25rem;
+  margin-top: 0.5rem;
 }
 
 .nav-button:hover {
