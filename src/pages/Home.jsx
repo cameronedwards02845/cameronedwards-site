@@ -1,6 +1,7 @@
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { useEffect } from 'react';
+import headshot from '../assets/headshot.JPEG';
 
 export default function Home() {
   useEffect(() =>  {
@@ -24,6 +25,13 @@ export default function Home() {
       <div>
         <h1 className="centered-heading">Cameron Edwards</h1>
         <section>
+        <div className="home-content">
+  <img
+    src={headshot}
+    alt="Cameron Edwards"
+    className="headshot"
+  />
+</div>
   <h1>Hello, I am Cameron Edwards, an undergraduate studying computer science and philosophy at Case Western Reserve University.</h1>
   <h2>Contact Me</h2>
   <p>Below you will find my LinkedIn page, email address, and GitHub profile.</p>
