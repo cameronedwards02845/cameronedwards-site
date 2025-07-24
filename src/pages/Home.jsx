@@ -28,7 +28,6 @@ export default function Home() {
         <img src={headshot} alt="Cameron Edwards" className="headshot" />
         <div className="intro-text">
           <h1>Cameron Edwards</h1>
-          
         </div>
       </section>
 
