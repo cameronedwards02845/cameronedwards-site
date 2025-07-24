@@ -28,11 +28,13 @@ export default function Home() {
         <img src={headshot} alt="Cameron Edwards" className="headshot" />
         <div className="intro-text">
           <h1>Cameron Edwards</h1>
-          <h2>
-            Hello, I am Cameron Edwards, an undergraduate studying computer science and philosophy at Case Western Reserve University.
-          </h2>
+          
         </div>
       </section>
+
+      <h2>
+        Hello, I am Cameron Edwards, an undergraduate studying computer science and philosophy at Case Western Reserve University.
+      </h2>
 
       <section>
         <h2>Contact Me</h2>
