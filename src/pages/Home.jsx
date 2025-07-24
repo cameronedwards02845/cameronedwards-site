@@ -24,6 +24,7 @@ export default function Home() {
       <div>
         <h1 className="centered-heading">Cameron Edwards</h1>
         <section>
+  <h1>Hello, I am Cameron Edwards, an undergraduate studying computer science and philosophy at Case Western Reserve University.</h1>
   <h2>Contact Me</h2>
   <p>Below you will find my LinkedIn page, email address, and GitHub profile.</p>
   <div style={{ display: 'flex', gap: '1rem', alignItems: 'center', marginTop: '1rem' }}>
