@@ -16,7 +16,7 @@
 a {
   font-weight: 500;
   color: black;
-  text-decoration: inherit;
+  text-decoration: underline;
 }
 a:hover {
   color: #0077b5;
@@ -59,8 +59,8 @@ body {
 }
 
 .headshot {
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   border-radius: 50%;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
